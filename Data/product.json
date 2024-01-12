@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "username": "Shantilata Dey",
+      "email": "Shantilatadey143@gmail.com",
+      "password": "Shanti143",
+      "id": 1
+    },
+    {
+      "username": "Happy Roy",
+      "email": "happy110@gmail.com",
+      "password": "habsbsbeS123",
+      "id": 2
+    },
+    {
+      "username": "Pakhi Dey",
+      "email": "deypakhi110@gmail.com",
+      "password": "dnjcjemlk143",
+      "id": 4
+    },
+    {
+      "username": "Happy Roy",
+      "email": "happy123@gmail.com",
+      "password": "habsbsbeS123",
+      "id": 5
+    },
+    {
+      "username": "Pakhi Dey",
+      "email": "happy112@gmail.com",
+      "password": "hhjvghb123",
+      "id": 6
+    },
+    {
+      "username": "Krishna Pal",
+      "email": "krishna143@gmail.com",
+      "password": "hjkhjkjk143",
+      "id": 7
+    }
+  ]
+}
